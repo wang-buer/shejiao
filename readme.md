@@ -26,7 +26,10 @@
 - tomcat版本：无需
 - maven版本：无限制
 - 硬件环境：Windows
+## 获取方式
+下-方-点-击-关-注，回-复：**社交**，查-看-导-入-教-程-视-频-和-sql-脚-本-等
 
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 4、功能介绍
 
